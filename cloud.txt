@@ -1,0 +1,10 @@
+1. Amazon Web Services
+2. Microsoft Azure
+3. Google Cloud Platform
+4. Platform as a Service
+5. Software as a Service
+6. Infrastructure as a Service
+7. EC2 Instance
+8. S3 Bucket
+9. RDS Database
+10. Amazon Polly
